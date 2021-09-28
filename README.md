@@ -1,8 +1,9 @@
 - 👋 Hi, I’m software  engineer aspirant  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning abput java.
+- 💞️ I’m looking to collaborate on programming. 
+- 📫 How to reach me please send me massege on github
+I need it. 
 
 <!---
 Ayushsingh12345/Ayushsingh12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
